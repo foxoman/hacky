@@ -20,28 +20,28 @@
   <style name="Local" foreground="#ff3e3e"/>
   <style name="Global" foreground="#009fef"/>
   <style name="Field" foreground="#009fef"/>
-  <style name="Static" foreground="#9f00ef"/>
+  <style name="Static" foreground="#009fef"/>
   <style name="VirtualMethod" foreground="#9fef00"/>
   <style name="Function" foreground="#e1e2e7"/>
   <style name="Keyword" foreground="#9fef00"/>
   <style name="PrimitiveType" foreground="#9fef00"/>
   <style name="Operator" foreground="#babdb6"/>
   <style name="Overloaded Operator" foreground="#ff3e3e" bold="true"/>
-  <style name="Punctuation" foreground="#ffaf00"/>
-  <style name="Preprocessor" foreground="#9f00ef"/>
+  <style name="Punctuation" foreground="#a4b1cd"/>
+  <style name="Preprocessor" foreground="#009fef"/>
   <style name="Label" foreground="#cb97ff"/>
   <style name="Comment" foreground="#7f848e"/>
   <style name="Doxygen.Comment" foreground="#7f7f7f"/>
   <style name="Doxygen.Tag" foreground="#6c6c6c"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
   <style name="QmlLocalId" foreground="#ff3e3e"/>
-  <style name="QmlExternalId" foreground="#9f00ef"/>
+  <style name="QmlExternalId" foreground="#009fef"/>
   <style name="QmlTypeId" foreground="#ffaf00"/>
   <style name="QmlRootObjectProperty" foreground="#009fef"/>
   <style name="QmlScopeObjectProperty" foreground="#ffaf00"/>
   <style name="QmlExternalObjectProperty" foreground="#009fef"/>
   <style name="JsScopeVar" foreground="#ffaf00"/>
-  <style name="JsImportVar" foreground="#9f00ef"/>
+  <style name="JsImportVar" foreground="#009fef"/>
   <style name="JsGlobalVar" foreground="#009fef"/>
   <style name="QmlStateName" foreground="#9fef00"/>
   <style name="Binding" foreground="#9fef00"/>
