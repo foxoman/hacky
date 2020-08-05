@@ -6,7 +6,7 @@
   <style name="LineNumber" foreground="#4e5562"/>
   <style name="SearchResult" foreground="#000000" background="#ffef0b"/>
   <style name="SearchScope" foreground="#000000" background="#f7fafe"/>
-  <style name="Parentheses" foreground="#ff3e3e" bold="true"/>
+  <style name="Parentheses" foreground="#ff3e3e" background="#ffff00" bold="true"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#ff00ff"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
   <style name="CurrentLine" foreground="#000000" background="#29374c"/>
@@ -26,7 +26,7 @@
   <style name="Keyword" foreground="#9fef00"/>
   <style name="PrimitiveType" foreground="#9fef00"/>
   <style name="Operator" foreground="#babdb6"/>
-  <style name="Overloaded Operator" foreground="#abb2bf" bold="true"/>
+  <style name="Overloaded Operator" foreground="#ff3e3e" bold="true"/>
   <style name="Punctuation" foreground="#ffaf00"/>
   <style name="Preprocessor" foreground="#9f00ef"/>
   <style name="Label" foreground="#cb97ff"/>
