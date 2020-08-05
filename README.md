@@ -1,7 +1,6 @@
 # Hacky QtCreator Syntax color theme
 
-Hacky is a High ContrastQtCreator Syntax color theme based on OneDark Pro Theme. Good to work with at night light. and focus more on the code than the sourddings.
-
+Hacky is a High Contrast QtCreator Syntax color theme based on OneDark Pro Theme. Good to work with at night light. and focus more on the code than the soundings.
 
 # Support
 If you like this theme, you can use it for free appreciate your support to have more themes :)
